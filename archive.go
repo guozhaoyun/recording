@@ -9,7 +9,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/evilsocket/islazy/fs"
+	"github.com/guozhaoyun/islazy/fs"
 )
 
 type LoadProgress func(perc float64, done int, total int)

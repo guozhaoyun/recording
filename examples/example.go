@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"runtime/pprof"
 
-	"github.com/bettercap/recording"
+	"github.com/guozhaoyun/recording"
 )
 
 var (
